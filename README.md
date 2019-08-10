@@ -8,7 +8,8 @@ This app allows a user to acces different telehealth opportunities
 #### Forgot Password:
 <img src="https://github.com/jcalderaio/synzi-apps/blob/master/gifs/virtual-care/login/forgot-password.gif" width="400">
 
-
+#### Switching environments:
+<img src="https://github.com/jcalderaio/synzi-apps/blob/master/gifs/virtual-care/login/switch-envs.gif" width="400">
 
 
 
